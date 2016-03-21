@@ -1,0 +1,9 @@
+downloading ISEAR Dataset, convert it to csv format and read it using pandas //SHRUTI
+random char removal //SHRUTI
+pos Tag //POORVA
+stemming //SHRUTI
+created dataframe(ds) emotions and representative words list.This task included getting representative words from the paper, wordnet synsets and extracting synonymous words from public databases for each emotion and storing into a file. //SUMEET
+Create emotion wordnet. //POORVA
+Use lexicon based approach to give the emotion of a sentence. //POORVA
+PMI function //SUMEET
+--nb, textblob //SHRUTI
